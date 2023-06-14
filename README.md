@@ -2,7 +2,7 @@
   BitBot
 </h1>
 
-BitBot is an educational robot for teaching programming, robotics, artificial inteligence and IoT.
+BitBot is an educational robot for teaching programming, robotics, artificial intelligence and IoT.
 
 <p align="center">
 <a href="https://github.com/jorgemaciel/BitBot/blob/main/LICENSE" target="blank">
