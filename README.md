@@ -2,7 +2,9 @@
   BitBot
 </h1>
 
+<<<<<<< HEAD
 BitBot is an educational robot for teaching programming, robotics, artificial intelligence and IoT.
+>>>>>>>>> Temporary merge branch 2
 
 <p align="center">
 <a href="https://github.com/jorgemaciel/BitBot/blob/main/LICENSE" target="blank">
