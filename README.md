@@ -2,7 +2,11 @@
   BitBot
 </h1>
 
+<<<<<<< HEAD
 BitBot is an educational robot for teaching programming, robotics, artificial intelligence and IoT.
+=======
+BitBot is an educational robot for teaching programming, robotics, artificial inteligence and IoT.
+>>>>>>> 51923da31066c74e24af588d1fc5007601466d9d
 
 <p align="center">
 <a href="https://github.com/jorgemaciel/BitBot/blob/main/LICENSE" target="blank">
@@ -23,7 +27,11 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 ## 💻 Built with
 
+<<<<<<< HEAD
 - [Micropython](https://micropython.org/)
+=======
+- [Micropython](https://micropython.org//)
+>>>>>>> 51923da31066c74e24af588d1fc5007601466d9d
 - [Esp32](https://www.espressif.com/en/products/socs/esp32/): the heart of the thing
 
 
