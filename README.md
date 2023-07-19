@@ -13,6 +13,12 @@ BitBot is an educational robot for teaching programming, robotics, artificial in
 </a>
 </p>
 
+## 🧐 Features
+
+- ✅ Display driver
+- ⬜ Robot with emotional Eyes
+- ✅ Servo test
+- ⬜ Servo advanced movements
 
 ## 🍰 Contributing
 
