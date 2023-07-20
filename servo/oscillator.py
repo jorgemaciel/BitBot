@@ -2,7 +2,7 @@
 #-- Oscillator.pde: GPL license (c) Juan Gonzalez-Gomez (Obijuan), 2011
 #-- BITBOT is based on OttoDIY Python Project, 2023
 
-import math, time, servo.bitbot_servo as bitbot_servo
+import math, time, bitbot_servo
 
 class Oscillator:
 	def __init__(self, trim = 0):
